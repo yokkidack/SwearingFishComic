@@ -5,3 +5,6 @@
 ![0](img/sweringFish-4.png)
 ![0](img/sweringFish-5.png)
 ![0](img/sweringFish-6.png)
+![0](img/sweringFish-7.png)
+![0](img/sweringFish-8.png)
+![0](img/sweringFish-9.png)
